@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/left_title">
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:background="@drawable/left_bg">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="430dp"
+            android:orientation="vertical">
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/img1"
+                android:background="@drawable/btn_gray"
+                android:paddingLeft="30dp"
+                android:textColor="#111111"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:drawablePadding="20dp"
+                android:text="@string/text_1"
+                android:textSize="18sp" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/img2"
+                android:background="@drawable/btn_gray"
+                android:paddingLeft="30dp"
+                android:textColor="#111111"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:drawablePadding="20dp"
+                android:text="@string/text_2"
+                android:textSize="18sp" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/img3"
+                android:background="@drawable/btn_gray"
+                android:paddingLeft="30dp"
+                android:layout_weight="1"
+                android:textColor="#111111"
+                android:gravity="center_vertical"
+                android:drawablePadding="20dp"
+                android:text="@string/text_3"
+                android:textSize="18sp" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/img4"
+                android:background="@drawable/btn_gray"
+                android:paddingLeft="30dp"
+                android:textColor="#111111"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:drawablePadding="20dp"
+                android:text="@string/text_4"
+                android:textSize="18sp" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/img5"
+                android:background="@drawable/btn_gray"
+                android:paddingLeft="30dp"
+                android:textColor="#111111"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:drawablePadding="20dp"
+                android:text="@string/text_5"
+                android:textSize="18sp" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/img6"
+                android:background="@drawable/btn_gray"
+                android:paddingLeft="30dp"
+                android:textColor="#111111"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:drawablePadding="20dp"
+                android:text="@string/text_6"
+                android:textSize="18sp" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/img7"
+                android:background="@drawable/btn_gray"
+                android:paddingLeft="30dp"
+                android:textColor="#111111"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:drawablePadding="20dp"
+                android:text="@string/text_7"
+                android:textSize="18sp" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
