@@ -1,2 +1,2 @@
-include ':app'
+include ':WeiMenu'
 rootProject.name='Android_200_Examples'
