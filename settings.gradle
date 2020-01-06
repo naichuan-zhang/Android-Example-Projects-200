@@ -1,2 +1,2 @@
-include ':WeiMenu'
+include ':WeiMenu', ':announcementdrawer'
 rootProject.name='Android_200_Examples'
