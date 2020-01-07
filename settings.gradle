@@ -1,2 +1,2 @@
-include ':WeiMenu', ':announcementdrawer', ':qqmenu', ':qqmenu'
+include ':WeiMenu', ':announcementdrawer', ':qqmenu', ':qqmenu', ':satellitemenu'
 rootProject.name='Android_200_Examples'

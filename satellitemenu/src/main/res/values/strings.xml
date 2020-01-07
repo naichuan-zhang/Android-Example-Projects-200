@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">卫星菜单</string>
+    <string name="text_btn1">子按钮1</string>
+    <string name="text_btn2">子按钮2</string>
+    <string name="text_btn3">子按钮3</string>
+    <string name="text_btn4">子按钮4</string>
+    <string name="text_btn5">子按钮5</string>
+</resources>
